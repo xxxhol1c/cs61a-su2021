@@ -1,0 +1,27 @@
+{
+    "name": "Lab 9",
+    "endpoint": "cal/cs61a/su21/lab09",
+    "src": [
+        "lab09.scm"
+    ],
+    "tests": {
+        "lab*.py": "doctest",
+        "tests/*.py": "ok_test"
+    },
+    "default_tests": [
+        "combinations",
+        "over_or_under",
+        "sum_of_squares",
+        "make_adder",
+        "composed",
+        "make_structure"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "unlock",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

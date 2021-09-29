@@ -1,0 +1,28 @@
+{
+    "name": "Lab 11",
+    "endpoint": "cal/cs61a/su21/lab11",
+    "src": [
+        "lab11.py",
+        "lab11.scm"
+    ],
+    "tests": {
+        "*.py": "doctest",
+        "tests/*.py": "ok_test"
+    },
+    "default_tests": [
+        "roman_numerals",
+        "wwsd-macros",
+        "scheme-def",
+        "tail-replicate",
+        "exp",
+        "calculator_ops"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "unlock",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

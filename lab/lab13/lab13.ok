@@ -1,0 +1,23 @@
+{
+    "name": "Lab 13",
+    "endpoint": "cal/cs61a/su21/lab13",
+    "src": [
+        "lab13.py",
+        "lab13.scm"
+    ],
+    "tests": {
+        "tests/*.py": "ok_test",
+        "lab*.py": "doctest"
+    },
+    "default_tests": [
+        "Tree"
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "unlock",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}
