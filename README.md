@@ -9,4 +9,4 @@
 
 :wave:  My WSl crashed unexpectedly, so I reupload it. SEE YA!
 
-![GitHub last commit](https://img.shields.io/github/last-commit/xxxhol1c/cs61a-su2021)
+![GitHub last commit](https://img.shields.io/github/last-commit/xxxhol1c/cs61a-su2021?color=ff69b4)
