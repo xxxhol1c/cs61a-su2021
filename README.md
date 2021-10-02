@@ -7,6 +7,6 @@
 
 :dizzy: You can goto https://cs61a.org/ to find official ones. But at the end of each semester, the solution page will be unavailable. :closed_lock_with_key:  
 
-:wave:  My WSl crashed unexpectedly, so I reupload it. SEE YA!
+:wave: SEE YA!
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/xxxhol1c/cs61a-su2021?color=ff69b4)
